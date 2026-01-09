@@ -149,3 +149,8 @@ Test tagging and selective execution
 Improved reporting
 
 Parallelized environment support
+
+# Final Notes
+
+This repository is not tied to a specific application or employer.
+It is intended to demonstrate how I approach problems, how I structure solutions, and how I balance test coverage with maintainability.
